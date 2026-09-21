@@ -1,0 +1,13 @@
+services:
+  supportpilot:
+    build: .
+    container_name: supportpilot-ai
+    ports:
+      - "8000:8000"
+    environment:
+      GEMINI_API_KEY: ${GEMINI_API_KEY}
+    volumes:
+      - chroma_data:/app/.chroma
+
+volumes:
+  chroma_data:

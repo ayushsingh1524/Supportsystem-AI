@@ -1,0 +1,102 @@
+[
+  {
+    "ticket_id": "E001",
+    "customer_message": "I was charged twice for my order",
+    "expected_category": "billing"
+  },
+  {
+    "ticket_id": "E002",
+    "customer_message": "My payment failed",
+    "expected_category": "billing"
+  },
+  {
+    "ticket_id": "E003",
+    "customer_message": "I don't recognize a charge on my account",
+    "expected_category": "billing"
+  },
+  {
+    "ticket_id": "E004",
+    "customer_message": "I forgot my password",
+    "expected_category": "account"
+  },
+  {
+    "ticket_id": "E005",
+    "customer_message": "My account is locked",
+    "expected_category": "account"
+  },
+  {
+    "ticket_id": "E006",
+    "customer_message": "I cannot log into my account",
+    "expected_category": "account"
+  },
+  {
+    "ticket_id": "E007",
+    "customer_message": "My application keeps crashing",
+    "expected_category": "technical"
+  },
+  {
+    "ticket_id": "E008",
+    "customer_message": "The website is not loading",
+    "expected_category": "technical"
+  },
+  {
+    "ticket_id": "E009",
+    "customer_message": "I received the wrong item",
+    "expected_category": "shipping"
+  },
+  {
+    "ticket_id": "E010",
+    "customer_message": "Where is my order?",
+    "expected_category": "shipping"
+  },
+  {
+    "ticket_id": "E011",
+    "customer_message": "My order is late",
+    "expected_category": "shipping"
+  },
+  {
+    "ticket_id": "E012",
+    "customer_message": "I want to cancel my order and get my money back",
+    "expected_category": "refund"
+  },
+  {
+    "ticket_id": "E013",
+    "customer_message": "How long does a refund take?",
+    "expected_category": "refund"
+  },
+  {
+    "ticket_id": "E014",
+    "customer_message": "I need a refund for my purchase",
+    "expected_category": "refund"
+  },
+  {
+    "ticket_id": "E015",
+    "customer_message": "Can you tell me how to change my email address?",
+    "expected_category": "account"
+  },
+  {
+    "ticket_id": "E016",
+    "customer_message": "My card was charged but my order was not placed",
+    "expected_category": "billing"
+  },
+  {
+    "ticket_id": "E017",
+    "customer_message": "The app shows an error when I try to open it",
+    "expected_category": "technical"
+  },
+  {
+    "ticket_id": "E018",
+    "customer_message": "My package arrived damaged",
+    "expected_category": "shipping"
+  },
+  {
+    "ticket_id": "E019",
+    "customer_message": "I need help getting access to my account",
+    "expected_category": "account"
+  },
+  {
+    "ticket_id": "E020",
+    "customer_message": "I want my money back for this purchase",
+    "expected_category": "refund"
+  }
+]

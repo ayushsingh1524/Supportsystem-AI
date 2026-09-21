@@ -1,0 +1,72 @@
+[
+  {
+    "ticket": "I was charged twice for the same order",
+    "category": "billing",
+    "resolution": "Duplicate charges are usually reversed automatically. If the duplicate charge remains, contact billing support with your order ID."
+  },
+  {
+    "ticket": "I don't recognize a charge on my account",
+    "category": "billing",
+    "resolution": "Check your recent orders and payment history. If the charge is still unfamiliar, contact billing support immediately."
+  },
+  {
+    "ticket": "My payment failed",
+    "category": "billing",
+    "resolution": "Check that your payment method has sufficient funds and that the card details are correct. You can also try another payment method."
+  },
+  {
+    "ticket": "I forgot my password",
+    "category": "account",
+    "resolution": "Use the password reset option on the login page and follow the instructions sent to your registered email."
+  },
+  {
+    "ticket": "My account is locked",
+    "category": "account",
+    "resolution": "Wait for the temporary lock to expire or use the account recovery process to regain access."
+  },
+  {
+    "ticket": "I cannot log into my account",
+    "category": "account",
+    "resolution": "Verify your email and password. If you still cannot log in, use the password reset or account recovery option."
+  },
+  {
+    "ticket": "My application keeps crashing",
+    "category": "technical",
+    "resolution": "Restart the application and make sure you are using the latest version. If the issue continues, provide the error message to technical support."
+  },
+  {
+    "ticket": "The website is not loading",
+    "category": "technical",
+    "resolution": "Check your internet connection and refresh the page. If the problem persists, try another browser or clear the browser cache."
+  },
+  {
+    "ticket": "I received the wrong item",
+    "category": "shipping",
+    "resolution": "Contact support with your order ID and a photo of the received item. Support will provide return or replacement instructions."
+  },
+  {
+    "ticket": "Where is my order?",
+    "category": "shipping",
+    "resolution": "Check your order tracking information using the tracking link provided in your order confirmation."
+  },
+  {
+    "ticket": "My order is late",
+    "category": "shipping",
+    "resolution": "Check the latest tracking update. If the estimated delivery date has passed, contact support with your order ID."
+  },
+  {
+    "ticket": "I want to cancel my order and get my money back",
+    "category": "refund",
+    "resolution": "If the order has not been shipped, request cancellation through your order page. Eligible refunds are processed after cancellation."
+  },
+  {
+    "ticket": "How long does a refund take?",
+    "category": "refund",
+    "resolution": "Refund processing time depends on the payment method. Check your refund confirmation for the expected processing period."
+  },
+  {
+    "ticket": "I need a refund for my purchase",
+    "category": "refund",
+    "resolution": "Submit a refund request from your order page. Eligibility depends on the purchase and refund policy."
+  }
+]
